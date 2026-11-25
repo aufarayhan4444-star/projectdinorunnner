@@ -29,4 +29,4 @@ void bunyi(int frek, int durasi) {
 #else
     beep();
 #endif
-}
+} 
